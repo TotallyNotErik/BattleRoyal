@@ -1,3 +1,3 @@
 # BattleRoyal
  
-Play Me: TotallyNotErik.GitHub.io/BattleRoyal/
+Play Me: https://TotallyNotErik.GitHub.io/BattleRoyal/
